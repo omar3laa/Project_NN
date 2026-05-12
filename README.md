@@ -76,8 +76,8 @@ The following preprocessing steps were applied:
 Test Accuracy
 | Model | Accuracy | Loss |
 |:-------------------------------------|:---------|-------:|
-| Simple Model | 97.53% | 0.078 |
-| Enhanced Model (BatchNorm & Dropout) | 98.38% | 0.0513 |
+| Simple Model | 97.42% | 0.0839 |
+| Enhanced Model (BatchNorm & Dropout) | 98.27% | 0.0534 |
 ---
 **Best Model:** Enhanced MLP  
 **Final Test Accuracy:** 98.38%
