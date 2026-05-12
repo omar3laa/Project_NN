@@ -89,14 +89,14 @@ Test Accuracy
 The following plots are included:
 
 - Training vs Validation Loss
-  ![Simple Model Loss](Results/loss simple.png)
+  ![Simple Model Loss](Results/loss_simple.png)
 
-  ![Enhanced Model Loss](Results/loss enhanced.png)
+  ![Enhanced Model Loss](Results/loss_enhanced.png)
 
 - Accuracy Curves
-  ![Simple Model Accuracy](Results/accuracy simple.png)
+  ![Simple Model Accuracy](Results/accuracy_simple.png)
 
-  ![Enhanced Model Accuracy](Results/accuracy enhanced.png)
+  ![Enhanced Model Accuracy](Results/accuracy_enhanced.png)
 
 ---
 
