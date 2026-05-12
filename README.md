@@ -78,6 +78,7 @@ Test Accuracy
 |:-------------------------------------|:---------|-------:|
 | Simple Model | 97.53% | 0.078 |
 | Enhanced Model (BatchNorm & Dropout) | 98.38% | 0.0513 |
+---
 **Best Model:** Enhanced MLP  
 **Final Test Accuracy:** 98.38%
 
