@@ -89,14 +89,19 @@ Test Accuracy
 The following plots are included:
 
 - Training vs Validation Loss
-  ![Simple Model Loss](Results/loss simple.png)
-
-  ![Enhanced Model Loss](Results/loss enhanced.png)
-
+   <p align="center">
+    <img src="Results/loss_simple.png" width="45%" />
+    <img src="Results/loss_enhanced.png" width="45%" />
+  </p>
+  
 - Accuracy Curves
-  ![Simple Model Accuracy](Results/accuracy simple.png)
+  <p align="center">
+      <img src="Results/accuracy_simple.png" width="45%"/>
+      <img src="Results/accuracy_enhanced.png" width="45%"/>
+  </p>
 
-  ![Enhanced Model Accuracy](Results/accuracy enhanced.png)
+
+  
 
 ---
 
@@ -148,6 +153,7 @@ jupyter notebook
 
 ```
 ├── PRO_ANN.ipynb
+├── Results/
 └──  README.md
 ```
 
