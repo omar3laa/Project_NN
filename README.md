@@ -89,12 +89,17 @@ Test Accuracy
 The following plots are included:
 
 - Training vs Validation Loss
-  <img src="Results/loss_simple.png" width="400"/>
-  <img src="Results/loss_enhanced.png" width="400"/>
-
+   <p align="center">
+    <img src="Results/loss_simple.png" width="45%" />
+    <img src="Results/loss_enhanced.png" width="45%" />
+  </p>
+  
 - Accuracy Curves
-  <img src="Results/accuracy_simple.png" width="400"/>
-  <img src="Results/accuracy_enhanced.png" width="400"/>
+  <p align="center">
+      <img src="Results/accuracy_simple.png" width="45%"/>
+      <img src="Results/accuracy_enhanced.png" width="45%"/>
+  </p>
+
 
   
 
